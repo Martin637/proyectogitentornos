@@ -43,4 +43,7 @@ public class EjerciciosProgramacion {
 		double valorEnEuros = cantidadDolares * UN_DOLAR_A_EURO;
 		return valorEnEuros;
 	}
+	public static void prueba2(){
+		System.out.println("Hola");
+	}
 }
